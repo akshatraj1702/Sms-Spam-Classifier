@@ -100,7 +100,7 @@ Since spam detection is an imbalanced classification problem, **Precision** was 
 ```text
 spam_detection.ipynb     # Complete notebook
 spam.csv                 # Dataset
-model.pkl                # Trained model
+model(1).pkl                # Trained model
 vectorizer.pkl           # TF-IDF Vectorizer
 README.md
 requirements.txt
